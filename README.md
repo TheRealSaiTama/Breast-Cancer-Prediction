@@ -1,6 +1,6 @@
 # Breast Cancer Prediction Model
 
-![Breast Cancer Prediction]
+Breast Cancer Prediction
 
 ## Overview
 
